@@ -3,3 +3,4 @@
 This app is a music playlist manager app which allows the user to enter the song title, artist name, the rating and the user’s comments. It also allows to navigate to the second screen which displays the lists of songs as well as the calculated average rating for the songs in the playlist. 
 Theres an exit app button which exits from the app completely as well as a return button which returns to the first screen. 
 The apps main purpose is to store song details and allow users to create and manage playlists.
+git hub link : https://github.com/Jadey29/MusicPlaylistPracticum.git
